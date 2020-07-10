@@ -1,0 +1,48 @@
+.img1{
+    width: 30px;}
+    
+.img2{
+    width: 40px;}
+    
+
+img{
+    padding-left: 10px;
+    border-radius: 50%;}
+
+a{
+    text-decoration: none;
+    color: black;}
+
+#instagram{
+    padding-left: 10px;}
+
+.nav1{
+    /* border: 2px black solid; */
+    margin-left: 800px;}  
+
+.google{
+    border-radius: 0%;
+    margin-top: 200px;
+    margin-left: 400px;
+    display: block;}
+
+input{
+    margin-top: 30px;
+    margin-left: 400px;
+    border-radius: 5px;
+    border: 1px gray solid;
+    padding-right: 150px;}
+
+.botones{
+    margin-left: 420px;
+    margin-top: 30px;
+}
+
+
+    
+
+
+    
+
+
+

@@ -1,0 +1,31 @@
+*{
+    background-color: aquamarine;}
+
+img{width: 200px;}
+
+a{color: black;
+text-decoration: none;}
+
+h1 {
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 100px;
+}
+ .img1{
+
+    width: 200px;
+    border-radius: 10px;
+ }
+.img2{
+
+    width: 200px;
+    border-radius: 10px;
+}
+
+div{
+    border: black solid;
+}
+
+
+
+/* se puede crear la clase aqui antes de ponerla en html */

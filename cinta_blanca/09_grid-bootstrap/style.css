@@ -1,0 +1,15 @@
+.my-container{
+    border: solid 2px white;
+    height: 800px;
+}
+
+.my-row{
+
+    border: solid 2px white;
+    height: auto;
+}
+
+.card{
+    border: solid 2px white;
+    height: auto;
+}

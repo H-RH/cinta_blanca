@@ -1,0 +1,71 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.padre{
+    background-color: darkblue;
+    width: 260px;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;}
+
+    .hijo{
+        background-color: white;
+        width: 200px;
+        height: 190px;
+        display: flex;
+        align-items: flex-end;}
+
+        .nieto{
+            background-color: red;
+            width: 170px;
+            height: 160px; }
+
+    .hija{
+        background-color: white;
+        width: 200px;
+        height: 240px;
+        display: flex;
+        align-items: flex-start;}
+
+        .nieta{
+            background-color: red;
+            width: 170px;
+            height: 214px; }
+
+.tio{
+    background-color: darkblue;
+    width: 450px;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;}
+            
+    .primo{
+        background-color: white;
+        width: 450px;
+        height: 240px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-end;}
+            
+        .sobrino{
+           background-color: red;
+            width: 420px;
+            height: 214px; }
+            
+    .prima{
+        background-color: white;
+        width: 450px;
+        height: 190px;
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-end;}
+            
+        .sobrina{
+            background-color: red;
+            width: 420px;
+            height: 160px; }
+            
